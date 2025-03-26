@@ -1,2 +1,2 @@
 # otro archivo!
-# este es un comentario desde la main
+# este es un comentario desde el merge conflict
